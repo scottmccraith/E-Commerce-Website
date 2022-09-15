@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Build E-Commerce 9.14"
+	}
+}
